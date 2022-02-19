@@ -23,7 +23,7 @@ linux服务器一键安装脚本
 bash <(curl -s -L https://ddl.ink/CxDB)
 
 纯转发模式使用后算力截图，算力几乎无损耗。
-![img_2.png](img_9.png)
+![img_2.png]
 
 
 
