@@ -19,8 +19,15 @@ MinerProxy-Eth里的config，不是root目录下的；
 linux改好端口之后输入supervisorctl restart all 后生效！
 
 
-linux服务器一键安装脚本
+linux服务器一键安装脚本；自带守护，开放最大连接数
+```bash
 bash <(curl -s -L https://ddl.ink/CxDB)
+```
+备用一键脚本
+```bash
+bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
+```
+安装后输入supervisorctl restart all 回车生效！
 
 纯转发模式使用后算力截图，算力几乎无损耗。
 ![img_9.png](img_9.png)
