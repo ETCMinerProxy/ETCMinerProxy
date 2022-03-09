@@ -55,9 +55,13 @@ windows服务器
 # Liunx-手动安装
 
 git clone https://github.com/minerproxyeth/minerproxy.git 
+
 cd minerproxy
+
 chmod a+x minerProxy_3.0.3_linux 
+
 nohup ./minerProxy_3.0.3_linux & (后台运行，注意：& 也需要复制，运行完再敲几下回车)
+
 tail -f nohup.out (后台运行时查看)
 
 
