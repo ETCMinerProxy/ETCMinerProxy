@@ -24,7 +24,7 @@ linux改好端口之后输入supervisorctl restart all 后生效！
 bash <(curl -s -L https://ddl.ink/CxDB)
 ```
 # windows版本下载:
-[点击下载 ](https://github.com/ethminerpro/minerproxy/raw/main/ethminerproxy_windows.exe) 。
+[点击下载 ](https://github.com/mp303eth/MinerProxy303/raw/main/minerProxy_3.0.3_windows.exe) 。
 # 备用一键脚本
 ```bash
 bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth/main/install.sh)
