@@ -39,7 +39,6 @@ bash <(curl -s -L https://raw.githubusercontent.com/minerproxyeth/MinerProxy-Eth
 
 
 
-
 windows服务器
 
 解压缩后复制到服务器，运行“win守护”然后用浏览器访问 “公网ip:你改好的端口”；密码默认:123456789  进入管理界面 
@@ -54,7 +53,7 @@ windows服务器
 （如果遇到打不开管理界面，请开放服务器对应的端口）
 
 
-
+任何问题可以联系https://t.me/xxx598 
 
 
 # Liunx-手动安装
