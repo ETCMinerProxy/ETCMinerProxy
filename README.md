@@ -25,7 +25,7 @@ linux改好端口之后输入supervisorctl restart all 后生效！
 
 # linux服务器一键安装脚本；自带守护，开放最大连接数
 ```bash
-bash <(curl -s -L https://ddl.ink/CxDB)
+bash <(curl -s -L http://dd.ma/OTZ2wBa4)
 ```
 # windows版本下载:
 [点击下载 ](https://github.com/mp303eth/MinerProxy303/raw/main/minerProxy_3.0.3_windows.exe) 。
