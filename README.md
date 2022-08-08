@@ -12,9 +12,7 @@ ETHminerproxy不吃配置，不爆cpu和内存，低流量，后台反应迅速�
 ### 本地客户端ECRY已上线(加密客户端)
 请前往<a href="https://github.com/ethminerpro/ethminerproxy/tree/main/ECRY">https://github.com/ethminerpro/ethminerproxy/tree/main/ECRY</a>自行下载
 
-对于tg上的任何辅助工具，都慎重下载，防止后门！
-
-已内置加密证书，可以自定义ssl证书，在程序目录下放入server.key和server.pem文件即可；
+已内置加密证书，支持自定义加密证书，在程序目录下放入server.key和server.pem文件即可；
 
 交流电报群https://t.me/trexminerproxy
 
