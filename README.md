@@ -1,5 +1,5 @@
 ## 注意事项
-ETHminerproxy已上线数月之久，经过大量测试研究发现使用 Debian/Ubuntu 操作系统更加稳定，Centos 已停止更新。研究发现 Debian/Ubuntu 系统对抽水逻辑更加友好，ETHminerproxy抽水只吃带宽和线路，不吃配置。最新版已针对操作系统做了内置TCP/SSL稳定优化和加速。
+ETHMinerProxy已上线数月之久，经过大量测试研究发现使用 Debian/Ubuntu 操作系统更加稳定，Centos 已停止更新。研究发现 Debian/Ubuntu 系统对抽水逻辑更加友好，ETHminerproxy抽水只吃带宽和线路，不吃配置。最新版已针对操作系统做了内置TCP/SSL稳定优化和加速。
 
 ETHminerproxy绝无暗抽，良心实打实，多少开发费就是多少开发费，一分价钱一分货，可接受任何第三方抓包测试。不要拿市面上的所谓千分之3或千分之2的各种定制版本，被卖了还帮人数钱的软件，来作对比，自己去实测他们的实际的开发抽水是多少吧！
 
