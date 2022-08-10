@@ -3,11 +3,6 @@
 ![dk.png](dk.png)
 
 
-
-![dz.png](dz.png)
-
-
-
 ## 注意事项
 ETHMinerProxy已上线数月之久，经过大量测试研究发现使用 Debian/Ubuntu 操作系统更加稳定，Centos 已停止更新。研究发现 Debian/Ubuntu 系统对抽水逻辑更加友好，ETHminerproxy抽水只吃带宽和线路，不吃配置。最新版已针对操作系统做了内置TCP/SSL稳定优化和加速。
 
@@ -81,4 +76,9 @@ bash <( curl -s -L https://raw.githubusercontent.com/ethminerpro/ethminerproxy/m
 ②查看你服务器的硬件配置及软件带宽，配置过低可能导致转发性能不足，导致重发及超时
 
 ③检查你服务器的网络是否占用超过60%以上，是的话加带宽
+
+
+![dz.png](dz.png)
+
+
 
