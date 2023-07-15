@@ -1,3 +1,11 @@
+<h1>
+ 如需更多币种支持, 请移步：https://github.com/minerproxy-btc/RustMinerSystem
+
+项目地址
+    <a href=" ">https://github.com/minerproxy-btc/RustMinerSystem</a >
+</h1>
+<h2>
+本程序已停止维护， 但依旧可用， 如需精准的BTC、LTC等抽水，请使用<a href="https://github.com/minerproxy-btc/RustMinerSystem">RustMinerSystem</a >。
 
 # 简易设置教程
 ![dk.png](dk.png)
